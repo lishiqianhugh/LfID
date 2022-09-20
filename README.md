@@ -10,7 +10,7 @@ Yet practically,LFD mechanism can only predict AD using dynamics learning module
 
 Finally, in the **fourth experiment**, we note that LFI, the extremely simpler strategy when done right, is more effective in learning to solve physical reasoning problems. Taken together, the results on the challenging benchmark of PHYRE show that LFI is, if not better, as good as \ac{lfd} with bells and whistles for dynamics prediction. However, the potential improvement from \ac{lfd}, though challenging, remains lucrative. 
 
-![avatar](/home/introduction.pdf)
+![introduction](introduction.pdf)
 
 This is an implementation of learning from intuition (LfI) and learning from dynamics (LfD) on [PHYRE](https://phyre.ai/).
 
