@@ -1,6 +1,6 @@
 # On the learning mechanisms in physical reasoning
 
-Is dynamics prediction indispensable for physical reasoning? If so, what kind of roles do the dynamics prediction modules play during the physical reasoning process? Most studies focus on designing dynamics prediction networks and treating physical reasoning as a downstream task without investigating the questions above, taking for granted that the designed dynamics prediction would undoubtedly help the reasoning process. In this work, we take a closer look at this assumption, exploring this fundamental hypothesis by comparing two learning mechanisms: LFD and LFI. 
+Is dynamics prediction indispensable for physical reasoning? If so, what kind of roles do the dynamics prediction modules play during the physical reasoning process? Most studies focus on designing dynamics prediction networks and treating physical reasoning as a downstream task without investigating the questions above, taking for granted that the designed dynamics prediction would undoubtedly help the reasoning process. In this work, we take a closer look at this assumption, exploring this fundamental hypothesis by comparing two learning mechanisms: learning from intuition (LfI) and learning from dynamics (LfD). 
 
 In the **first experiment**, we directly examine and compare these two mechanisms. Results show a surprising finding: Simple LFI is better than or on par with SOTA LFD. 
 
@@ -12,6 +12,6 @@ Finally, in the **fourth experiment**, we note that LFI, the extremely simpler s
 
 ![introduction](introduction.jpg)
 
-This is an implementation of learning from intuition (LfI) and learning from dynamics (LfD) on [PHYRE](https://phyre.ai/).
+This is an implementation of LfI and LfD on [PHYRE](https://phyre.ai/).
 
 For details, please see [LfI.md](./LfI/LfI.md) and  [LfD.md](./LfD/LfD.md), respectively.
