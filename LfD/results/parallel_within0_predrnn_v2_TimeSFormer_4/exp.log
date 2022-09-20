@@ -1,0 +1,43 @@
+05/24/2022 07:40:10 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 07:41:15 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 07:41:17 AM - ERROR - No checkpoint found at 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:41:17 AM - ERROR - No checkpoint found at 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:46:13 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 07:46:14 AM - ERROR - No checkpoint found at 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:46:14 AM - ERROR - No checkpoint found at 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:47:18 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 07:47:20 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:47:20 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:47:23 AM - INFO - Loading cache from /home/kewen/.cache/phyre/offline_simulation/100000/ball
+05/24/2022 07:50:53 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 07:50:54 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:50:55 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:50:58 AM - INFO - Loading cache from /home/kewen/.cache/phyre/offline_simulation/100000/ball
+05/24/2022 07:53:26 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 07:53:27 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:53:28 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:53:31 AM - INFO - Loading cache from /home/kewen/.cache/phyre/offline_simulation/100000/ball
+05/24/2022 07:58:50 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 07:58:51 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:58:52 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:58:55 AM - INFO - Loading cache from /home/kewen/.cache/phyre/offline_simulation/100000/ball
+05/24/2022 07:59:33 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 07:59:34 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:59:34 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 07:59:37 AM - INFO - Loading cache from /home/kewen/.cache/phyre/offline_simulation/100000/ball
+05/24/2022 08:08:39 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 08:08:40 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 08:08:41 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 08:08:44 AM - INFO - Loading cache from /home/kewen/.cache/phyre/offline_simulation/100000/ball
+05/24/2022 08:09:03 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 08:09:05 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 08:09:05 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 08:09:08 AM - INFO - Loading cache from /home/kewen/.cache/phyre/offline_simulation/100000/ball
+05/24/2022 08:15:38 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 08:15:39 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 08:15:40 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 08:15:43 AM - INFO - Loading cache from /home/kewen/.cache/phyre/offline_simulation/100000/ball
+05/24/2022 08:17:56 AM - INFO - {'input_length': 1, 'total_length': 4, 'epoch': 10, 'batch_size': 16, 'lr': 0.0001, 'save_path': './results/parallel_within0_predrnn_v2_TimeSFormer_4/within0'}
+05/24/2022 08:17:57 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 08:17:58 AM - INFO - Loaded model_state from checkpoint 'Network/timesformer/pretrained/TimeSformer_divST_8x32_224_K600.pyth'
+05/24/2022 08:18:01 AM - INFO - Loading cache from /home/kewen/.cache/phyre/offline_simulation/100000/ball
