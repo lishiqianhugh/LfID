@@ -1,6 +1,6 @@
 # On the learning mechanisms in physical reasoning
 
-[Website](https://lishiqianhugh.github.io/LfID_Page/)
+[[Website](https://lishiqianhugh.github.io/LfID_Page/)]
 
 Is dynamics prediction indispensable for physical reasoning? If so, what kind of roles do the dynamics prediction modules play during the physical reasoning process? Most studies focus on designing dynamics prediction networks and treating physical reasoning as a downstream task without investigating the questions above, taking for granted that the designed dynamics prediction would undoubtedly help the reasoning process. In this work, we take a closer look at this assumption, exploring this fundamental hypothesis by comparing two learning mechanisms: learning from intuition (LfI) and learning from dynamics (LfD). 
 
