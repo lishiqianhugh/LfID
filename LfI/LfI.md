@@ -30,4 +30,4 @@ This is an implementation of Vision Transformer, Swin Transformer and BEiT on [P
   python evaluate.py --model_path='ViT_within0/within0_10' --model_name=ViT --protocal=within --fold=0 --batch_size=256
   ```
 
-The results in the cross-template setting hold larger variance than the ones in the within-template setting. The models in the cross-template setting converge earlier than those in the within-template setting.
+The results in the cross-template setting hold larger variance than the ones in the within-template setting. The models in the cross-template setting converge earlier than those in the within-template setting. Model parameters are available [here](https://drive.google.com/drive/folders/1gBTjyYWpccoMWhx4sH9-eXiqaP3CTu4u?usp=sharing).
